@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1684257325 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 10 listas void ayed\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1684255941 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 10 listas void ayed\lista.h
+	<limits.h>
+	<stdbool.h>
+
+1684260099 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 10 listas void ayed\motivos.c
+	"motivos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1684261838 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 10 listas void ayed\main.c
+	"lista.h"
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+
+1684261678 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 10 listas void ayed\persona.h
+	"lista.h"
+
+1684261726 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 10 listas void ayed\persona.c
+	"persona.h"
+	"motivos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1684260282 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 10 listas void ayed\motivos.h
+
